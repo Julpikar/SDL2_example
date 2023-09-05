@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Mingw",
+
+    "generator": "Ninja",
+
+    "compilers": {
+      "C": "gcc",
+      "CXX": "g++"
+    },
+    "linker": "lld"
+  }
+]

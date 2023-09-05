@@ -1,0 +1,1 @@
+- SDL2 common mistakes and how to avoid them (https://nullprogram.com/blog/2023/01/08/)
